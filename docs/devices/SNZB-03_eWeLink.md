@@ -17,9 +17,9 @@ pageClass: device-page
 |-----|-----|
 | Model | SNZB-03_eWeLink  |
 | Vendor  | [eWeLink](/supported-devices/#v=eWeLink)  |
-| Description | Motion sensor |
-| Exposes | battery, voltage, occupancy, battery_low |
-| Picture | ![eWeLink SNZB-03_eWeLink](https://www.zigbee2mqtt.io/images/devices/SNZB-03_eWeLink.png) |
+| Description | Zigbee water sensor |
+| Exposes | battery, voltage, water_leak, battery_low |
+| Picture | ![eWeLink SNZB-03_eWeLink]([https://www.zigbee2mqtt.io/images/devices/SNZB-05.png]) |
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
